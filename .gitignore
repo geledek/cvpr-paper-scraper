@@ -1,6 +1,10 @@
 # Virtual environment
 venv/
 .venv/
+.python-version
+
+# uv
+uv.lock
 
 # Python
 __pycache__/
