@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Output files (large, can be regenerated)
+output/
+*.pdf
+
+# Data files (large, can be regenerated)
+cvpr2024_papers.json
+cvpr2024_papers.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
